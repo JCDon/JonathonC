@@ -1,0 +1,18 @@
+.name {
+    font-family: 'Oxygen', sans-serif;
+    font-weight: bold;
+    background-color: white;
+    color: #1b1e23;
+    text-align: center;
+    border-radius: 12px;
+    width: 200px;
+    font-size: 22px;
+}
+
+
+.border {
+    background: white;
+    color: #1b1e23;
+    border-radius: 10px;
+    font-weight: bold;
+}

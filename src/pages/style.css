@@ -1,0 +1,28 @@
+
+.img {
+    margin: 20px 20px;
+    position: relative;
+    border-style: ridge;
+    border-color: #1b1e23;
+}
+
+.profImg {
+    width: 300px;
+    height: 300px;
+}
+
+.imgFit {
+    height: 350px !important;
+    width: 500px !important;
+}
+
+.about {
+    margin: 20px;
+    float: left;
+}
+
+body {
+    background-image: url('../assets/images/backgrain.jpg');
+    color: white;
+    font-family: 'Contrail One', cursive;
+}
