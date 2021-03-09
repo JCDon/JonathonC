@@ -1,6 +1,6 @@
 # Jonathon Condon
 
-Link to deployed site: [https://jcdon.github.io/JonathonC/](https://jcdon.github.io/JonathonC/)
+Link to deployed site: [https://afternoon-stream-70056.herokuapp.com/portfolio](https://afternoon-stream-70056.herokuapp.com/portfolio)
 
 ## Description
 
