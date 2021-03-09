@@ -29,7 +29,7 @@ function Portfolio () {
             <div className="col-12 justify-content-between">
                 <div>
                     <a target="blank" href="https://z1springer.github.io/what_to_do/">
-                        <h2>What To Do?: Calender App</h2>
+                        <h2 className="linkcolor">What To Do?: Calender App</h2>
                     </a>
                     <a href="https://github.com/Z1springer/what_to_do">https://github.com/Z1springer/what_to_do</a>
                     <p>This project was designed to work as a fully functional calender, with a day, week, and month
@@ -43,7 +43,7 @@ function Portfolio () {
                 </div>
                 <div>
                     <a href="https://pizzacutterapp.herokuapp.com/pizzacutter" target="blank">
-                        <h2>Pizza Cutter's</h2>
+                        <h2 className="linkcolor">Pizza Cutter's</h2>
                     </a>
                     <a href="https://github.com/zhuxiaoyu1019/online-order-system">https://github.com/zhuxiaoyu1019/online-order-system</a>
                     <p>This app was created for a real customer who owns a small local pizza restaraunt. He had issues with his static site and wanted a more heavy-weight application that could be edited and updated from within the site via an owners dashboard. It also contains a user dashboard for restaraunt customers to view menu items and prepare an order.</p>
@@ -56,7 +56,7 @@ function Portfolio () {
                 <div>
     
                     <a target="blank" href="https://jcdon.github.io/DailyPlannerJCC/">
-                        <h2>Work Day Scheduler</h2>
+                        <h2 className="linkcolor">Work Day Scheduler</h2>
                     </a>
                     <a href="https://github.com/JCDon/DailyPlannerJCC">https://github.com/JCDon/DailyPlannerJCC</a>
                     <p>This project featured local storage, and was designed to display an 9 hr day and have events

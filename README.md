@@ -1,6 +1,6 @@
 # Jonathon Condon
 
-Link to deployed site: [https://jcdon.github.io/PortfolioJCC/](https://jcdon.github.io/PortfolioJCC/)
+Link to deployed site: [https://jcdon.github.io/JonathonC/](https://jcdon.github.io/JonathonC/)
 
 ## Description
 

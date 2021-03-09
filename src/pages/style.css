@@ -16,6 +16,10 @@
     width: 500px !important;
 }
 
+.linkcolor {
+    color: black !important;
+}
+
 .about {
     margin: 20px;
     float: left;
