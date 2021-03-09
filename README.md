@@ -10,15 +10,12 @@ This site was created using bootstrap and html to create a site for displaying m
 
 This main page contains all of the projects that I am displaying and provides links and images for anyone wishing to view my work.
 
-<img src="src/assets.images.portfolio" style="width: 50%;" />
 
 This about page tells all about who I am and contains an image of myself at the Washington Youth Academy. At the bottom of the page are my contact info and links to my github, linkedIn, and resume.
 
-<img src="src/assets/images/portfolioabout.png" style="width: 50%" />
 
 This contact page is the source for anyone viewing my portfolio to leave their contact info for me to review and reach out to them when ever they submit a contact request.
 
-<img src="src/assets/images/portfoliocontact.png" style="width: 50%" />
 
 ## License
 
